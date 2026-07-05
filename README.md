@@ -22,10 +22,10 @@ Currently an M.Phil. candidate in Risk Management Science at CUHK, my research i
 * Trail Running
 
 ### 📌 Pinned Repositories
-* [`QuantEquity`](link): Minimal infrastructure for academic PIT backtesting on Equities.
-* [`FDA`](link): Tutorials on Financial Data Analytics.
-* [`CIBer`](link): Demonstration of Comonotone-Independence Bayesian Classifier on Operational Risk Management. 
-* [`DiffusionExamples`](link): Experiments with diffusion models for image restoration tasks.
+* [`QuantEquity`](https://github.com/ccyccyjustin/QuantEquity): Minimal infrastructure for academic point-in-time backtesting on Equities.
+* [`FDA`](https://github.com/ccyccyjustin/RMSC4002Tutorial): Tutorials on Financial Data Analytics.
+* [`CIBer`](https://github.com/ccyccyjustin/CIBer): Demonstration of Comonotone-Independence Bayesian Classifier on Operational Risk Management.
+* [`PIAVS`] (WIP): Physics-Informed Adaptive Variational Splines.
 
 
 <!--
