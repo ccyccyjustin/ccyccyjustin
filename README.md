@@ -25,7 +25,7 @@ Currently an M.Phil. candidate in Risk Management Science at CUHK, my research i
 * [`QuantEquity`](https://github.com/ccyccyjustin/QuantEquity): Minimal infrastructure for academic point-in-time backtesting on Equities.
 * [`FDA`](https://github.com/ccyccyjustin/RMSC4002Tutorial): Tutorials on Financial Data Analytics.
 * [`CIBer`](https://github.com/ccyccyjustin/CIBer): Demonstration of Comonotone-Independence Bayesian Classifier on Operational Risk Management.
-* [`PIAVS`] (WIP): Physics-Informed Adaptive Variational Splines.
+* [`PIAVS`](link): Physics-Informed Adaptive Variational Splines (WIP).
 
 
 <!--
