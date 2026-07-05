@@ -8,8 +8,8 @@ Currently an M.Phil. candidate in Risk Management Science at CUHK, my research i
 * Generative Models
 
 
-### 💼 Professional Focus
-* **Systematic Macro & Equities:** Mid-low frequency alpha research (Experience at Cubist Systematic Strategies & Quantbot Technologies).
+### 💼 Professional Experience
+* **Systematic Macro & Equities:** Mid-low frequency alpha research, at Cubist Systematic Strategies & Quantbot Technologies.
 * **Machine Learning:** Developing novel models with applications across domains such as finance, physics and risk management.
 
 ### 🛠 Technical Skills
